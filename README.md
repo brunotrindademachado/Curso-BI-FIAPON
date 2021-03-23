@@ -1,2 +1,3 @@
-# Cursos-BI
-Repositório de Materiais dos Cursos de BI que realizei
+# Curso FIAP ON - Business Intelligence (BI)
+Repositório de Materiais do curso
+
